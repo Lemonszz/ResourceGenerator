@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "item": "resourcemelons:[replace]_slice"
+  },
+  "result": "minecraft:[replace]",
+  "experience": 0.7,
+  "cookingtime": 200
+}
