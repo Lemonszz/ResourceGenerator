@@ -4,7 +4,7 @@ This tool was developed for Minecraft modding but can be used for other purposes
 The code itself is probably bad, I'm not a python developer, but it works.
 
 ### Example Use:
-Put the files you want copied into a folder named **resources** All file names must contain **[replace]** or the file will not be copied. All instances of the string **[replace]**  inside Text files (or files readable by text) will be replaced. 
+Put the files you want copied into a folder named **resources** All non-directory file names must contain **[replace]** or the file will not be copied. All instances of the string **[replace]**  inside Text files (or files readable by text) will be replaced. 
 
 Example input and output has been provided with the repo
 
